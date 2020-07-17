@@ -1,9 +1,6 @@
 [![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-inventory-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-inventory-service)
 # MSSC Beer Inventory Service
 
-This repository contains source code examples used to support my on-line courses about the Spring Framework.
+This repository contains source code examples used to exercise Spring Boot Microservices course on Udemy.
 
-You can learn more about the courses here:
-* [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?couponCode=GIT_HUB2)
-* [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC)
-* [Testing Spring Boot: Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO_SF5B2G)
+Forked from [springframeworkguru / mssc-beer-inventory-service](https://github.com/springframeworkguru/mssc-beer-inventory-service/tree/initial-project). Starting branch for this repository is [develop](https://github.com/Qkiz288/mssc-beer-inventory-service/tree/develop) branch.

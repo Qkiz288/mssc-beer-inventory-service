@@ -1,4 +1,4 @@
-package com.kkukielka.common.events;
+package com.kkukielka.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 
